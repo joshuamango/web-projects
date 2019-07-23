@@ -1,0 +1,10 @@
+.jumbotron {
+  height: 100vh;
+  margin-bottom: 0px;
+  background-image: url('https://source.unsplash.com/daily?morning');
+  background-size: cover;
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  border-radius: 0px;
+  text-shadow: 2px 2px 5px black;
+}
